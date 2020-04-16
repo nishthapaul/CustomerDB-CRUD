@@ -11,5 +11,5 @@ Validated the Name and Email ID fields using NodeJS
 Implemented these crud operations around Html Table.
 ![Screenshot (98)](https://user-images.githubusercontent.com/33231250/79432736-db34ce80-7fe9-11ea-862f-d7d40bdff679.png)
 
-Customers details updated in database.
+Customers records updated in database.
 ![Screenshot (99)](https://user-images.githubusercontent.com/33231250/79432774-e7209080-7fe9-11ea-8fe2-92c01f08ecea.png)
