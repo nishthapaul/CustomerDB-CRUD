@@ -2,6 +2,9 @@
 ## High Performance Web and Mobile Applications Project
 A simple web application to implement Create and Retrieve operations in NodeJS Application with the help of MongoDB and Express.
 
+###How to run
+![Capture](https://user-images.githubusercontent.com/33231250/79433626-fb18c200-7fea-11ea-8ffc-1bac98023466.PNG)
+
 It stores the details of the customers of an E-Commerce website such as Full Name, Email ID, Mobile Number, Address and Pincode in MongoDB database.
 ![Screenshot (97)](https://user-images.githubusercontent.com/33231250/79431984-d15e9b80-7fe8-11ea-8df8-11c9acddaa32.png)
 
