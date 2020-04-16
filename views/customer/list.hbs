@@ -1,0 +1,25 @@
+<h3><a class="btn btn-secondary" href="/customer"><i class="fa fa-plus"></i> Create New</a> Customer List</h3>
+<div class="text-nowrap">
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>Full Name</th>
+				<th>Email</th>
+				<th>Mobile Number</th>
+				<th>Address</th>
+				<th>Pincode</th>
+			</tr>
+		</thead>
+		<tbody>
+			{{#each list}}
+			<tr>
+				<td>{{this.name}}</td>
+				<td>{{this.email}}</td>
+				<td>{{this.mobile}}</td>
+				<td>{{this.address}}</td>
+				<td>{{this.pincode}}</td>
+			</tr>
+			{{/each}}
+		</tbody>
+	</table>
+</div>
