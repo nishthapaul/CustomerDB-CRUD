@@ -1,5 +1,5 @@
 # CustomerDB CRUD
-## High Performance Web and Mobile Applications Project
+## Database CRUD Operations on MongoDb using NodeJS
 A simple web application to implement Create and Retrieve operations in NodeJS Application with the help of MongoDB and Express.
 
 ###How to run
